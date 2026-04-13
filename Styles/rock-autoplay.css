@@ -48,4 +48,5 @@ body {
 
 .image {
   height: 70px;
+  border: 1px solid black;
 }
